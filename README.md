@@ -1,4 +1,4 @@
-# Supplementary results and code for the manuscript "Local adaptation in population of Mycobacterium tuberculosis endemic to the Indian Ocean Rim"
+Supplementary results and code for the manuscript "Local adaptation in population of Mycobacterium tuberculosis endemic to the Indian Ocean Rim"
 
 
 Supplementary_file_1.html: PASTML results for L1, compressed tree
