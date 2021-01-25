@@ -1,4 +1,4 @@
-# Supplementary information, data and code associated with the publication: Local adaptation in populations of Mycobacterium tuberculosis endemic to the Indian Ocean Rim. Menardo et al. (2021)
+## Supplementary information, data and code associated with the publication: Local adaptation in populations of Mycobacterium tuberculosis endemic to the Indian Ocean Rim. Menardo et al. (2021)
 
 The folder Supplementary_text_figures_tables contains supplementary text, figures and tables
 
