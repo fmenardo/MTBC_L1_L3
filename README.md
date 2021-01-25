@@ -1,8 +1,10 @@
+# Supplementary information, data and code associated with the publication: Local adaptation in populations of Mycobacterium tuberculosis endemic to the Indian Ocean Rim. Menardo et al. (2021)
+
 The folder Supplementary_text_figures_tables contains supplementary text, figures and tables
 
 The folder Dating_beast contains the xml files for the dating analyses
 
-The folder EsxH_haplotype_association_test contains the code and input files to perfomr the test of association between diferent haplotypes and geographic regions
+The folder EsxH_haplotype_association_test contains the code and input files to perform the test of association between diferent haplotypes and geographic regions
 
 The folder EsxH_PAML contains the control files and input files to perform the positive selection analysis on EsxH
 
